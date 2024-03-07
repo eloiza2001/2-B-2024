@@ -1,0 +1,12 @@
+
+*{margin: 0;
+    padding: 0;}
+   
+    header{
+        background-color: rgb(186, 44, 215);
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        padding: 24px 0;
+   
+    }
