@@ -20,3 +20,7 @@
     .imagem-escola{
         width: 40%;
     }
+    .escola{
+        background-image: linear-gradient(blue, yellow );
+
+    }
