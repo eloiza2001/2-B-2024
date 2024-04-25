@@ -44,6 +44,6 @@
     padding: 50px 0;
    }     
    .estudante-todos{
-    display:grid; 
-    grid-template-colums: 33% 33% 33% ;
+    display: grid; 
+    grid-template-columns: 33% 33% 33% ;
    }
