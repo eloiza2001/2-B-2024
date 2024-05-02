@@ -26,6 +26,12 @@
         display:flex;
     }
     .texto-escola{font-size: 20px}
+    .escola-conteudo{
+        widht:40%;
+        align-items:center;
+        padding: 24px 0;
+
+    }
     .titulo-escola{font: size 40px;}
     .estudante{
         background-image: linear-gradient(rgb(206, 20, 20), rgb(122, 30, 30) );
